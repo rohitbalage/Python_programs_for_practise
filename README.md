@@ -1,4 +1,4 @@
-These are the collection of most essential programs in CPP.
+These are the collection of most essential programs in Python.
 
 all rights are reserved by @rohit_balage
 github:
